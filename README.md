@@ -4,10 +4,9 @@
 An app that displays the planets in our solar system along with their corresponding number of moons.
 
 ## Features
-- Displays the planets images
-- Displays the planet names
-- Displays the number of moons that each planet has
-- Dark mode
+- Displays the planets images.
+- Displays the planet names.
+- Displays the number of moons that each planet has.
 
 ## Technologies/Tools used
 - Android Studio Iguana | 2023.2.1
